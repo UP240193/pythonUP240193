@@ -1,0 +1,25 @@
+#Day two
+Primer_nombre = input("¿Cual es tu primer nombre?")
+print (Primer_nombre)
+Apellidos = input("¿Cual es tu apellido?")
+print (Apellidos)
+nombre_completo = input("Escribe tu nombre completo")
+print (nombre_completo)
+pais_de_origen = input("¿En que pais naciste?")
+print (pais_de_origen)
+ciudad = input("¿De que ciudad eres?")
+print (ciudad)
+Edad = input("Escriba su edad")
+print (Edad)
+año = input ("¿En que año naciste")
+print (año)
+is_married = input("¿Estas casado?")
+print(is_married)
+is_true = input("True")
+print (is_true)
+is_light_on = input("is light on")
+print (is_light_on)
+
+
+#level 2
+print("Area de un circulo:", areaC)
